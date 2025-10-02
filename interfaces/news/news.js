@@ -8,7 +8,6 @@ const { Button } = await import(ROUTES.components.basic.button.js);
 const { Form } = await import(ROUTES.components.container.form.js);
 const { FormInput } = await import(ROUTES.components.form.formInput.js);
 const { SubmitInput } = await import(ROUTES.components.form.submitInput.js);
-const { CardContainer } = await import(ROUTES.components.display.cardContainer.js);
 
 function openNotificationForm({ mode = 'create', data = null } = {}) {
     const modal = new Modal({

@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Sapientiae</string>
+    <string name="title_activity_main">Sapientiae</string>
+    <string name="package_name">com.itr.sapientiae</string>
+    <string name="custom_url_scheme">com.itr.sapientiae</string>
+</resources>
